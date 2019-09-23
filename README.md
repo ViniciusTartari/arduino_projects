@@ -14,6 +14,7 @@ Lista de projetos:
 - Código exemplo de utilização do sensor DHT11;
 - Código exemplo de utilização do sensor MPU6050;
 - Código exemplo de utilização de motor de passo;
+- Código exemplo de utilização do sensor MFRC522;
 
 ---
 
