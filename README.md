@@ -10,6 +10,7 @@
 Lista de projetos:
 
 - Código base para led 7 segmentos;
+- Código exemplo de utilização do sensor DHT11;
 
 ---
 
