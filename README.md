@@ -13,6 +13,7 @@ Lista de projetos:
 - Código base para LDR;
 - Código exemplo de utilização do sensor DHT11;
 - Código exemplo de utilização do sensor MPU6050;
+- Código exemplo de utilização de motor de passo;
 
 ---
 
