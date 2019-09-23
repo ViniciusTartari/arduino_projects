@@ -7,4 +7,10 @@
 
 ---
 
+Lista de projetos:
+
+- Código base para led 7 segmentos;
+
+---
+
 _Última atualização em: 23 de Setembro de 2019_
